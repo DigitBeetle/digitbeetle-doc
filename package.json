@@ -1,0 +1,22 @@
+{
+  "name": "digitbeetle-doc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./docs/index.html",
+  "scripts": {
+    "start": "docsify serve ./docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:CoinMeta/digitbeetle-doc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoinMeta/digitbeetle-doc/issues"
+  },
+  "homepage": "https://github.com/CoinMeta/digitbeetle-doc#readme",
+  "dependencies": {
+    "docsify-cli": "^4.4.4"
+  }
+}
